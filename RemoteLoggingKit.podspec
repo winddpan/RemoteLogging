@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage       = 'https://github.com/E13Lau/RemoteLogging'
   spec.license        = 'MIT'
   spec.author         = 'e13lau'
-  spec.module_name    = 'RemoteLogging'
+  spec.module_name    = 'RemoteLoggingKit'
   spec.source         = { :git => 'https://github.com/E13Lau/RemoteLogging.git', :tag => '0.0.8' }
   spec.source_files   = 'Sources/RemoteLogging/**/*.swift'
   spec.swift_version  = '5.0'
